@@ -6,3 +6,6 @@ This Repository is used for Big Data Analytics course.
 
 This is the Wiki link for the lab assignment 1
 https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assigment-1
+
+This is the Wiki link for the lab assignment 2
+https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-2
