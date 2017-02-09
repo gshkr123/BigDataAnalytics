@@ -6,6 +6,7 @@
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'default'
+[debug] no default cache defined: set to C:\Users\gshkr\.ivy2\cache
 [debug] == resolving dependencies for kmeans#kmeans$sbt_2.11;1.0 [default]
 [debug] == resolving dependencies kmeans#kmeans$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
@@ -250,7 +251,6 @@
 [debug] sbt-chain: module revision found in cache: org.scala-tools.sbinary#sbinary_2.10;0.4.2
 [debug] 	found org.scala-tools.sbinary#sbinary_2.10;0.4.2 in sbt-chain
 [debug] == resolving dependencies org.scala-tools.sbinary#sbinary_2.10;0.4.2->org.scala-lang#scala-library;2.10.2 [compile->default(compile)]
-[debug] no default cache defined: set to C:\Users\gshkr\.ivy2\cache
 [debug] == resolving dependencies org.scala-tools.sbinary#sbinary_2.10;0.4.2->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [debug] == resolving dependencies org.scala-tools.sbinary#sbinary_2.10;0.4.2->org.scala-lang#scala-library;2.10.4 [compile->runtime]
 [debug] == resolving dependencies org.scala-tools.sbinary#sbinary_2.10;0.4.2->org.scala-lang#scala-library;2.10.4 [compile->compile]
@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 547ms :: artifacts dl 41ms
+[debug] :: resolution report :: resolve 1055ms :: artifacts dl 47ms
 [debug] 	report for kmeans#kmeans$sbt_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\kMeans Clustering\target\resolution-cache\reports\kmeans-kmeans$sbt_2.11-default.xml
-[debug] 	resolve done (547ms resolve - 41ms download)
+[debug] 	resolve done (1055ms resolve - 47ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: kmeans#kmeans$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1061,6 +1061,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 135ms :: artifacts dl 30ms
+[debug] :: resolution report :: resolve 141ms :: artifacts dl 47ms
 [debug] 	report for kmeans#kmeans$sources_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\kMeans Clustering\target\resolution-cache\reports\kmeans-kmeans$sources_2.11-default.xml
-[debug] 	resolve done (135ms resolve - 30ms download)
+[debug] 	resolve done (141ms resolve - 47ms download)

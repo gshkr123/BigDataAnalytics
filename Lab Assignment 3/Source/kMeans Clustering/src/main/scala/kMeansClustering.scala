@@ -3,9 +3,7 @@ import org.apache.spark.{SparkContext, SparkConf}
 import org.apache.spark.mllib.clustering.{KMeans, KMeansModel}
 import org.apache.spark.mllib.linalg.Vectors
 
-/**
-  * Created by Manikanta on 1/31/2017.
-  */
+
 object kMeansClustering {
 
   def main(args: Array[String]): Unit = {
