@@ -1,0 +1,43 @@
+
+*************output\mainframes\0_0.4691508857666463.jpg***********
+people - 0.96854675
+religion - 0.96762246
+wear - 0.965934
+woman - 0.93468064
+adult - 0.91890585
+indoors - 0.90198696
+one - 0.89366007
+veil - 0.85281885
+man - 0.84013295
+outfit - 0.8037676
+two - 0.7895477
+church - 0.7582779
+daylight - 0.7579601
+dress - 0.75531924
+Easter - 0.7545093
+gown (clothing) - 0.7475406
+ceremony - 0.7399549
+home - 0.7325145
+no person - 0.72858953
+spirituality - 0.7195504
+*************output\mainframes\29_0.006719609040928528.jpg***********
+people - 0.9847266
+art - 0.9765791
+adult - 0.96928847
+fashion - 0.9682483
+woman - 0.96549857
+man - 0.96207476
+illustration - 0.95019084
+wear - 0.94931054
+dress - 0.94208384
+painting - 0.9386896
+one - 0.92468643
+portrait - 0.91904306
+style - 0.8941812
+indoors - 0.88392544
+veil - 0.8831284
+culture - 0.85038257
+model - 0.847561
+religion - 0.8388959
+fashionable - 0.8286079
+retro - 0.81056803
