@@ -144,7 +144,6 @@
 [debug] == resolving dependencies org.scala-sbt#actions;0.13.8->org.scala-sbt#api;0.13.8 [compile->default(compile)]
 [info] Resolving org.scala-sbt#api;0.13.8 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#api;0.13.8 {compile=[default(compile)]}
-[debug] no default cache defined: set to C:\Users\gshkr\.ivy2\cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#api;0.13.8
 [debug] 	found org.scala-sbt#api;0.13.8 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#api;0.13.8->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
@@ -704,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 732ms :: artifacts dl 69ms
+[debug] :: resolution report :: resolve 1077ms :: artifacts dl 47ms
 [debug] 	report for linear#linear$sbt_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\Linear Regression\target\resolution-cache\reports\linear-linear$sbt_2.11-default.xml
-[debug] 	resolve done (732ms resolve - 69ms download)
+[debug] 	resolve done (1077ms resolve - 47ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: linear#linear$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1061,6 +1060,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 140ms :: artifacts dl 68ms
+[debug] :: resolution report :: resolve 144ms :: artifacts dl 47ms
 [debug] 	report for linear#linear$sources_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\Linear Regression\target\resolution-cache\reports\linear-linear$sources_2.11-default.xml
-[debug] 	resolve done (140ms resolve - 68ms download)
+[debug] 	resolve done (144ms resolve - 47ms download)
