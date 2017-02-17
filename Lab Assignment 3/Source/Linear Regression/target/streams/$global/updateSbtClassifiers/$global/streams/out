@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1077ms :: artifacts dl 47ms
+[debug] :: resolution report :: resolve 1501ms :: artifacts dl 47ms
 [debug] 	report for linear#linear$sbt_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\Linear Regression\target\resolution-cache\reports\linear-linear$sbt_2.11-default.xml
-[debug] 	resolve done (1077ms resolve - 47ms download)
+[debug] 	resolve done (1501ms resolve - 47ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: linear#linear$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1060,6 +1060,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 144ms :: artifacts dl 47ms
+[debug] :: resolution report :: resolve 206ms :: artifacts dl 32ms
 [debug] 	report for linear#linear$sources_2.11;1.0 default produced in C:\Users\gshkr\OneDrive\Documents\GitHub\BigDataAnalytics\Lab Assignment 3\Source\Linear Regression\target\resolution-cache\reports\linear-linear$sources_2.11-default.xml
-[debug] 	resolve done (144ms resolve - 47ms download)
+[debug] 	resolve done (206ms resolve - 32ms download)
