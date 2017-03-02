@@ -18,3 +18,6 @@ https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-4
 
 This is the Wiki link for the lab assignment 5
 https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-5
+
+This is the Wiki link for the lab assignment 6
+https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-6
