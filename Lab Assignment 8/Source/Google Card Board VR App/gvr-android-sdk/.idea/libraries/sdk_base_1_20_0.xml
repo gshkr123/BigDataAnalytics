@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sdk-base-1.20.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.20.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/samples/sdk-treasurehunt/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.20.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\exploded-aar\com.google.vr\sdk-commonwidget\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\pre-dexed\debug\com.google.vr-sdk-commonwidget-1.20.0_0265fdcfe0453a475e1795e16a977b3c5e80fe2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\exploded-aar\com.google.vr\sdk-panowidget\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\pre-dexed\debug\com.google.vr-sdk-panowidget-1.20.0_104b52fcb4cf7616778302a455dc02e17e69d78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gshkr\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.1.0\5110f05deac8f15244897b3f70e9ce413468771d\protobuf-javanano-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\pre-dexed\debug\protobuf-javanano-3.1.0_e4614494425d481e91de9006e8d7350c12423cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\exploded-aar\com.google.vr\sdk-common\1.20.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67403bd58f399f39aa47e5e186d4f94c0e1322a2">
+        <dex dex="C:\Users\gshkr\OneDrive\Documents\GitHub\gvr-android-sdk\samples\sdk-simplepanowidget\build\intermediates\pre-dexed\debug\com.google.vr-sdk-common-1.20.0_c5fb98d520322aa5ccead64580119f0db7755438.jar" />
+    </item>
+
+</items>
