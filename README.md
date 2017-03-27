@@ -27,3 +27,6 @@ https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-7
 
 This is the Wiki link for the lab assignment 8
 https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-8
+
+This is the Wiki link for the lab assignment 9
+https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-9
