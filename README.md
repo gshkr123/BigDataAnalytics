@@ -33,3 +33,6 @@ https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-9
 
 This is the Wiki link for the lab assignment 10
 https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-10
+
+This is the Wiki link for the lab assignment 11
+https://github.com/gshkr123/BigDataAnalytics/wiki/Lab-Assignment-11
